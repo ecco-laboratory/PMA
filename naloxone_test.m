@@ -58,7 +58,7 @@ drawnow;snapnow;
 
 
 %% Load behavioral data and conduct the same statistical tests
-load([datadir filesep 'Ratings' filesep 'ratings.mat')
+load([datadir filesep 'Ratings' filesep 'ratings.mat'])
 behav_pleasantness_erotic = [(behav([5]).vals(1:19)+behav([7]).vals(1:19))/2 (behav([5]).vals(20:end)+behav([7]).vals(20:end))/2];
 behav_pleasantness_money = [(behav([1]).vals(1:19)+behav([3]).vals(1:19))/2 (behav([1]).vals(20:end)+behav([3]).vals(20:end))/2];
 
