@@ -6,9 +6,9 @@ They have been tested using MATLAB 2016b and require [the CANLAB core tools](htt
 
 ![Screenshot](PleasureSignature.png)
 
-This code requires data available [here](https://osf.io/2znxp/). Download and unzip these data, and place them in the Data subdirectory (see set_up_folders_and_paths.m for details).
+This code requires data available [here](https://osf.io/2znxp/). Download and unzip these data, and place them in the Data subdirectory (see [set_up_dirs_paths.m](https://github.com/ecco-laboratory/PMA/blob/main/set_up_dirs_paths.m) for details).
 
-To run the analyses, add Canlab Core and SPM12 to the MATLAB path, navigate to the Code directory from the above link (and subfolders), and run RunAnalysis.m. 
+To run the analyses, add Canlab Core and SPM12 to the MATLAB path, navigate to the Code directory from the above link (and subfolders), and run [RunAnalysis.m](https://github.com/ecco-laboratory/PMA/blob/main/RunAnalysis.m). 
 
 Test environment(s):
 --------------------
