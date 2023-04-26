@@ -2,7 +2,7 @@
 Summary and requirements:
 -------------------------
 This repository contains MATLAB scripts needed to produce key results found in Kragel et al. 2023 and supplementary materials. 
-They have been tested using MATLAB 2016b and require [the CANLAB core tools](https://github.com/canlab/CanlabCore) and [SPM12] (https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
+They have been tested using MATLAB 2016b and require [the CANLAB core tools](https://github.com/canlab/CanlabCore) and [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
 
 ![Screenshot](PleasureSignature.png)
 
