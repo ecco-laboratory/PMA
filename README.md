@@ -4,8 +4,6 @@ Summary and requirements:
 This repository contains MATLAB scripts needed to produce key results found in Kragel et al. 2023. 
 They have been tested using MATLAB 2016b and require [the CANLAB core tools](https://github.com/canlab/CanlabCore) and [SPM12](https://www.fil.ion.ucl.ac.uk/spm/software/spm12/).
 
-The data used to develop the signature are available at https://osf.io/vs84r/
-
 ![Screenshot](PleasureSignature.png)
 
 This code requires data available [here](https://osf.io/2znxp/). Download and unzip these data, and place them in the Data subdirectory (see [set_up_dirs_paths.m](https://github.com/ecco-laboratory/PMA/blob/main/set_up_dirs_paths.m) for details).
