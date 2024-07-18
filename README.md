@@ -10,6 +10,8 @@ This code requires data available [here](https://osf.io/2znxp/). Download and un
 
 To run the analyses, add Canlab Core and SPM12 to the MATLAB path, navigate to the Code directory from the above link (and subfolders), and run [RunAnalysis.m](https://github.com/ecco-laboratory/PMA/blob/main/RunAnalysis.m). 
 
+The estimated signature can be download from [Neurovault](https://neurovault.org/collections/17701/).
+
 Test environment(s):
 --------------------
 MATLAB Version: 9.11.0.1769968 (R2021b)
